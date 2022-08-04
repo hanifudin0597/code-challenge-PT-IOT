@@ -51,11 +51,13 @@ This app was built with some technologies below:
 
 ### Feature
 - Terdapat 2 Hak Akses dalam aplikasi ini yaitu
+```
     a. Admin : - Bisa mengubah hak akses suatu user (active/nonactive hak akses)
                - Melihat semua user
                - Login
     b. User : - Memiliki Akses terhadap data (Read, Update, Delete) Products
               - Login
+```
 
 - Akun Admin
 ```
